@@ -1,0 +1,10 @@
+---project details: 
+http://socialsciences.exeter.ac.uk/politics/research/projects/details/index.php?id=503
+
+---more information on clickstream: 
+https://www.ncrm.ac.uk/resources/online/online_data_sources/
+
+---download sample data: 
+https://github.com/lhorvath/multilevel/blob/master/cs_york.csv
+
+---do get in touch if interested in the data for further use.
